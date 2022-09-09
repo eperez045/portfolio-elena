@@ -672,7 +672,8 @@ section {
 .contact .info {
     width: 100%;
     background: #fff;
-    display: flex;
+    /* display: flex;
+    justify-content: space-between; */
 }
 
 .contact .info i {
